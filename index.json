@@ -1,28 +1,14 @@
-# Включение/выключение режима технических работ
-NEXT_PUBLIC_MAINTENANCE_MODE=true
-
-# Заголовок страницы
-NEXT_PUBLIC_MAINTENANCE_TITLE="Идут технические работы"
-NEXT_PUBLIC_MAINTENANCE_SUBTITLE="Мы улучшаем наш сервис для вас"
-
-# Прогресс работ (в процентах)
-NEXT_PUBLIC_MAINTENANCE_PROGRESS="70%"
-
-# Примерное время завершения (в формате HH:MM:SS или "Завершено!")
-# Если вы хотите использовать обратный отсчет, укажите целевое время в формате ISO (например, 2025-08-25T21:59:59Z)
-# Или просто строку, например "Примерно 2 часа"
-NEXT_PUBLIC_MAINTENANCE_ETA="2025-08-25T23:40:00Z"
-
-# Статус Edge Config (можно использовать для общего статуса, если Edge Config не используется)
-NEXT_PUBLIC_MAINTENANCE_EDGE_STATUS_TEXT="Статус определяется из .env"
-NEXT_PUBLIC_MAINTENANCE_EDGE_STATUS_COLOR="#22c55e" # green, yellow, red, gray
-
-# Версия (для футера)
-NEXT_PUBLIC_MAINTENANCE_VERSION="v3.0.0-env"
-
-# Сообщения о работах (можно добавить больше, если нужно)
-NEXT_PUBLIC_MAINTENANCE_UPDATE_SYSTEM_TEXT="Устанавливаем новые функции и улучшения"
-NEXT_PUBLIC_MAINTENANCE_OPTIMIZATION_TEXT="Повышаем скорость и производительность"
-NEXT_PUBLIC_MAINTENANCE_SECURITY_TEXT="Улучшаем защиту ваших данных"
-
-NEXT_PUBLIC_TIMEZONE=Europe/Moscow
+{
+  "NEXT_PUBLIC_MAINTENANCE_MODE": "true",
+  "NEXT_PUBLIC_MAINTENANCE_TITLE": "Идут технические работы (из репозитория)",
+  "NEXT_PUBLIC_MAINTENANCE_SUBTITLE": "Мы улучшаем наш сервис для вас (из репозитория)",
+  "NEXT_PUBLIC_MAINTENANCE_PROGRESS": "75%",
+  "NEXT_PUBLIC_MAINTENANCE_ETA": "2025-08-25T23:41:00Z",
+  "NEXT_PUBLIC_MAINTENANCE_EDGE_STATUS_TEXT": "Статус из GitHub",
+  "NEXT_PUBLIC_MAINTENANCE_EDGE_STATUS_COLOR": "#ef4444",
+  "NEXT_PUBLIC_MAINTENANCE_VERSION": "v1.1.0-github",
+  "NEXT_PUBLIC_MAINTENANCE_UPDATE_SYSTEM_TEXT": "Устанавливаем новые функции и улучшения (из GitHub)",
+  "NEXT_PUBLIC_MAINTENANCE_OPTIMIZATION_TEXT": "Повышаем скорость и производительность (из GitHub)",
+  "NEXT_PUBLIC_MAINTENANCE_SECURITY_TEXT": "Улучшаем защиту ваших данных (из GitHub)",
+  "NEXT_PUBLIC_TIMEZONE": "Europe/Moscow"
+}
