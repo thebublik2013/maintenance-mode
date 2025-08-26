@@ -1,5 +1,5 @@
 {
-  "NEXT_PUBLIC_MAINTENANCE_MODE": "false",
+  "NEXT_PUBLIC_MAINTENANCE_MODE": "true",
   "NEXT_PUBLIC_MAINTENANCE_TITLE": "Идут технические работы",
   "NEXT_PUBLIC_MAINTENANCE_SUBTITLE": "Мы улучшаем наш сервис для вас",
   "NEXT_PUBLIC_MAINTENANCE_PROGRESS": "75%",
