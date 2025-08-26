@@ -1,14 +1,14 @@
 {
   "NEXT_PUBLIC_MAINTENANCE_MODE": "true",
-  "NEXT_PUBLIC_MAINTENANCE_TITLE": "Идут технические работы (из репозитория)",
-  "NEXT_PUBLIC_MAINTENANCE_SUBTITLE": "Мы улучшаем наш сервис для вас (из репозитория)",
+  "NEXT_PUBLIC_MAINTENANCE_TITLE": "Идут технические работы",
+  "NEXT_PUBLIC_MAINTENANCE_SUBTITLE": "Мы улучшаем наш сервис для вас",
   "NEXT_PUBLIC_MAINTENANCE_PROGRESS": "75%",
   "NEXT_PUBLIC_MAINTENANCE_ETA": "2025-08-25T23:41:00Z",
   "NEXT_PUBLIC_MAINTENANCE_EDGE_STATUS_TEXT": "Статус из GitHub",
   "NEXT_PUBLIC_MAINTENANCE_EDGE_STATUS_COLOR": "#ef4444",
-  "NEXT_PUBLIC_MAINTENANCE_VERSION": "v1.1.0-github",
-  "NEXT_PUBLIC_MAINTENANCE_UPDATE_SYSTEM_TEXT": "Устанавливаем новые функции и улучшения (из GitHub)",
-  "NEXT_PUBLIC_MAINTENANCE_OPTIMIZATION_TEXT": "Повышаем скорость и производительность (из GitHub)",
-  "NEXT_PUBLIC_MAINTENANCE_SECURITY_TEXT": "Улучшаем защиту ваших данных (из GitHub)",
+  "NEXT_PUBLIC_MAINTENANCE_VERSION": "v4.0.0",
+  "NEXT_PUBLIC_MAINTENANCE_UPDATE_SYSTEM_TEXT": "Устанавливаем новые функции и улучшения",
+  "NEXT_PUBLIC_MAINTENANCE_OPTIMIZATION_TEXT": "Повышаем скорость и производительность",
+  "NEXT_PUBLIC_MAINTENANCE_SECURITY_TEXT": "Улучшаем защиту ваших данных",
   "NEXT_PUBLIC_TIMEZONE": "Europe/Moscow"
 }
